@@ -26,7 +26,7 @@ Who ate the most donuts this week?
     Sam   11
     Robin  6
 
-    These tasks were successfully completed by me.
+    This task was successfully completed by me.
 
 
 The priorities at the moment are studying, in the future I want to devote myself entirely to work. My strong point is the desire to bring the matter to its logical conclusion, the love of difficulties and the search for their solutions. At the time of January 2022, I have no work experience in IT. I expect to get a job as a junior in a suitable organization at the end of Stage1.  
