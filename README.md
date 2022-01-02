@@ -1,1 +1,1 @@
-# rsschool-cv
+https://HenadzBaker.github.io/rsschool-cv/cv
