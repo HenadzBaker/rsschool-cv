@@ -1,5 +1,5 @@
 ## Henadz Pekarets
- ![Henadz](https://user-images.githubusercontent.com/95878041/147890890-2f5f11e0-29f0-427f-ad8a-8f2ae94d888c.jpg)
+ ![Henadz](https://user-images.githubusercontent.com/95878041/147891006-1d670e18-62c5-4839-80a8-3b48c89e956c.jpg)
 ### Contacts  
    **Location:** Brest, Belarus  
    **Phone:** А1 +375336444471  
