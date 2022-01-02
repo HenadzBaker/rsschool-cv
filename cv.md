@@ -28,20 +28,6 @@ Who ate the most donuts this week?
 
     These tasks were successfully completed by me.
 
-#### [HTML](https://ru.code-basics.com/languages/html) Task
-## Henadz Pekarets
-  ![Henadz](https://user-images.githubusercontent.com/95878041/147862328-d706f043-7951-4869-96ce-97314933a7af.jpg)
-### Contacts  
-   **Location:** Brest, Belarus  
-   **Phone:** А1 +375336444471  
-   **E-mail:** e-mail@gmail.com  
-   **GitHub:** HenadzBaker  
-### The purpose of classes at RS School Stage 0 is:  
-* mastering a new profession
-* getting new knowledge
-* continuous development
-* development of language skills  
-
 
 The priorities at the moment are studying, in the future I want to devote myself entirely to work. My strong point is the desire to bring the matter to its logical conclusion, the love of difficulties and the search for their solutions. At the time of January 2022, I have no work experience in IT. I expect to get a job as a junior in a suitable organization at the end of Stage1.  
 
