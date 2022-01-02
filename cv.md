@@ -1,5 +1,5 @@
 ## Henadz Pekarets
- ![Henadz](https://github.com/HenadzBaker/rsschool-cv/blob/gh-pages/photo_2022-01-02_00-37-25.jpg)
+ ![Henadz](https://user-images.githubusercontent.com/95878041/147890890-2f5f11e0-29f0-427f-ad8a-8f2ae94d888c.jpg)
 ### Contacts  
    **Location:** Brest, Belarus  
    **Phone:** А1 +375336444471  
