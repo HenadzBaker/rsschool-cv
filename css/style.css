@@ -108,3 +108,15 @@
 .section {
   width: 50%;
 }
+.footer {
+  background-color: #757070;
+  padding: 20px;  
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  color: #fff;
+}
